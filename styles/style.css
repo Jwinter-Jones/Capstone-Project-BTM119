@@ -1,6 +1,17 @@
+#content_left{
+    display: inline-block;
+}
 img{
     width: 250px;
     height: auto;
     float: left;
     padding: 25px;
+}
+iframe{
+    display: block;
+    clear: left;
+}
+
+embed{
+    float: right;
 }
